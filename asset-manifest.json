@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/IsainIbarra-React-Portfolio/static/css/main.79d7dcce.css",
+    "main.js": "/IsainIbarra-React-Portfolio/static/js/main.384f64e8.js",
+    "static/js/787.a2cb61a6.chunk.js": "/IsainIbarra-React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/gamers-screenshot.PNG": "/IsainIbarra-React-Portfolio/static/media/gamers-screenshot.9291139150322dc39cb3.PNG",
+    "static/media/placeholder-avatar.png": "/IsainIbarra-React-Portfolio/static/media/placeholder-avatar.336d0002868642df20bf.png",
+    "static/media/Weather-app-screenshot.PNG": "/IsainIbarra-React-Portfolio/static/media/Weather-app-screenshot.a05350f62bf110231316.PNG",
+    "static/media/scheduler-screenshot.png": "/IsainIbarra-React-Portfolio/static/media/scheduler-screenshot.e0e7c5824c6e1e52d954.png",
+    "static/media/HelloWord-screenshot.PNG": "/IsainIbarra-React-Portfolio/static/media/HelloWord-screenshot.776cae648c50e45bd07b.PNG",
+    "static/media/generated-Readme-screenshot.PNG": "/IsainIbarra-React-Portfolio/static/media/generated-Readme-screenshot.26a87e95d445db118007.PNG",
+    "index.html": "/IsainIbarra-React-Portfolio/index.html",
+    "main.79d7dcce.css.map": "/IsainIbarra-React-Portfolio/static/css/main.79d7dcce.css.map",
+    "main.384f64e8.js.map": "/IsainIbarra-React-Portfolio/static/js/main.384f64e8.js.map",
+    "787.a2cb61a6.chunk.js.map": "/IsainIbarra-React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d7dcce.css",
+    "static/js/main.384f64e8.js"
+  ]
+}
